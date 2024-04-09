@@ -1,0 +1,22 @@
+/* .でクラスを指定　#でidを指定 */
+
+.articleContainer {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+    background-color: white;
+}
+
+#newsfeed {
+  margin: 0;
+  padding: 0.3rem;
+  background-color: #eee;
+}
+
+#header {
+  background-color: gray;
+}
+
+#footer {
+  background-color: gray;
+}
